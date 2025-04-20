@@ -209,7 +209,7 @@ Partial Class Register
         Me.Label5.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.Label5.Size = New System.Drawing.Size(178, 36)
         Me.Label5.TabIndex = 2
-        Me.Label5.Text = "We’re so thrilled to have you join G-SHOCK!"
+        Me.Label5.Text = "We’re so thrilled to have you join G-Shock Team!"
         '
         'Button1
         '
